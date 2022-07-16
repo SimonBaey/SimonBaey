@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/SimonBaey/simbaey/main/Avatar.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://raw.githubusercontent.com/SimonBaey/SimonBaey/main/Avatar.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Simon+Baey+%F0%9F%91%8B;Full-stack+Developer;React+Expert;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
@@ -56,24 +56,24 @@
     </div>
     <div align=center>
         <h1>Github Stats</h1>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriff-rango&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=sheriff-rango&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonBaey&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SimonBaey&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
         <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
         -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheriff-rango&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonBaey&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=sheriff-rango&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo">
+        <img src="https://github-profile-trophy.vercel.app/?username=SimonBaey&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo">
         <br>
         <br>
     </div>
 </div>
 
-<!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=sheriff-rango&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- ## [![trophy](https://github-profile-trophy.vercel.app/?username=SimonBaey&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-Credit: [Bikas Lin](https://github.com/sheriff-rango)
+Credit: [Simon Baey](https://github.com/SimonBaey)
 
 Last edited on: 23/03/2022
